@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/2c99abda-2bad-4c46-904d-ed70de09a0e5)
+
 # Desafio Vai na Web 🚀
 
 Seja bem-vindo ao desafio da escola Vai na Web! 🎓 Você foi aceito para ajudar a restaurar o sistema da escola que foi afetado por um vírus misterioso. Sua missão é resolver uma série de desafios em Python para restaurar tudo. Vamos lá! 💻
